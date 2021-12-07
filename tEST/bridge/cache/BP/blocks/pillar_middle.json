@@ -1,0 +1,458 @@
+{
+	"file_path": "C:\\Users\\User\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\tEST\\blocks\\pillar_middle.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "2fff7955_df71_4d11_bfe6_da470bbd0be0",
+	"file_version": 3,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:block": {
+						"description": {
+							"identifier": "test:pillar_middle"
+						},
+						"components": {
+							"minecraft:destroy_time": 2,
+							"minecraft:block_light_emission": 0,
+							"minecraft:block_light_absorption": 0,
+							"minecraft:map_color": "#969696",
+							"minecraft:explosion_resistance": 0.3,
+							"minecraft:geometry": "geometry.pillar_middle",
+							"minecraft:material_instances": {
+								"*": {
+									"texture": "pillar_middle",
+									"render_method": "opaque",
+									"face_dimming": true,
+									"ambient_occlusion": true
+								}
+							},
+							"minecraft:pick_collision": {
+								"origin": [
+									-6,
+									0,
+									-6
+								],
+								"size": [
+									12,
+									16,
+									12
+								]
+							},
+							"minecraft:entity_collision": {
+								"origin": [
+									-6,
+									0,
+									-6
+								],
+								"size": [
+									12,
+									16,
+									12
+								]
+							},
+							"minecraft:creative_category": {
+								"category": "construction",
+								"group": "itemGroup.name.ore"
+							}
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "test:pillar_middle"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "test:pillar_middle"
+							},
+							"components": {
+								"minecraft:destroy_time": 2,
+								"minecraft:block_light_emission": 0,
+								"minecraft:block_light_absorption": 0,
+								"minecraft:map_color": "#969696",
+								"minecraft:explosion_resistance": 0.3,
+								"minecraft:geometry": "geometry.pillar_middle",
+								"minecraft:material_instances": {
+									"*": {
+										"texture": "pillar_middle",
+										"render_method": "opaque",
+										"face_dimming": true,
+										"ambient_occlusion": true
+									}
+								},
+								"minecraft:pick_collision": {
+									"origin": [
+										-6,
+										0,
+										-6
+									],
+									"size": [
+										12,
+										16,
+										12
+									]
+								},
+								"minecraft:entity_collision": {
+									"origin": [
+										-6,
+										0,
+										-6
+									],
+									"size": [
+										12,
+										16,
+										12
+									]
+								},
+								"minecraft:creative_category": {
+									"category": "construction",
+									"group": "itemGroup.name.ore"
+								}
+							}
+						},
+						"key": "components",
+						"children": [
+							{
+								"data": "2",
+								"key": "minecraft:destroy_time"
+							},
+							{
+								"data": "0",
+								"key": "minecraft:block_light_emission"
+							},
+							{
+								"data": "0",
+								"key": "minecraft:block_light_absorption"
+							},
+							{
+								"data": "#969696",
+								"key": "minecraft:map_color"
+							},
+							{
+								"data": "0.3",
+								"key": "minecraft:explosion_resistance"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 2,
+									"minecraft:block_light_emission": 0,
+									"minecraft:block_light_absorption": 0,
+									"minecraft:map_color": "#969696",
+									"minecraft:explosion_resistance": 0.3,
+									"minecraft:geometry": "geometry.pillar_middle",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "pillar_middle",
+											"render_method": "opaque",
+											"face_dimming": true,
+											"ambient_occlusion": true
+										}
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-6,
+											0,
+											-6
+										],
+										"size": [
+											12,
+											16,
+											12
+										]
+									},
+									"minecraft:entity_collision": {
+										"origin": [
+											-6,
+											0,
+											-6
+										],
+										"size": [
+											12,
+											16,
+											12
+										]
+									},
+									"minecraft:creative_category": {
+										"category": "construction",
+										"group": "itemGroup.name.ore"
+									}
+								},
+								"data": "geometry.pillar_middle",
+								"key": "minecraft:geometry"
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 2,
+									"minecraft:block_light_emission": 0,
+									"minecraft:block_light_absorption": 0,
+									"minecraft:map_color": "#969696",
+									"minecraft:explosion_resistance": 0.3,
+									"minecraft:geometry": "geometry.pillar_middle",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "pillar_middle",
+											"render_method": "opaque",
+											"face_dimming": true,
+											"ambient_occlusion": true
+										}
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-6,
+											0,
+											-6
+										],
+										"size": [
+											12,
+											16,
+											12
+										]
+									},
+									"minecraft:entity_collision": {
+										"origin": [
+											-6,
+											0,
+											-6
+										],
+										"size": [
+											12,
+											16,
+											12
+										]
+									},
+									"minecraft:creative_category": {
+										"category": "construction",
+										"group": "itemGroup.name.ore"
+									}
+								},
+								"key": "minecraft:material_instances",
+								"children": [
+									{
+										"open": {
+											"*": {
+												"texture": "pillar_middle",
+												"render_method": "opaque",
+												"face_dimming": true,
+												"ambient_occlusion": true
+											}
+										},
+										"key": "*",
+										"is_minified": true,
+										"children": {
+											"texture": "pillar_middle",
+											"render_method": "opaque",
+											"face_dimming": true,
+											"ambient_occlusion": true
+										}
+									}
+								]
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 2,
+									"minecraft:block_light_emission": 0,
+									"minecraft:block_light_absorption": 0,
+									"minecraft:map_color": "#969696",
+									"minecraft:explosion_resistance": 0.3,
+									"minecraft:geometry": "geometry.pillar_middle",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "pillar_middle",
+											"render_method": "opaque",
+											"face_dimming": true,
+											"ambient_occlusion": true
+										}
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-6,
+											0,
+											-6
+										],
+										"size": [
+											12,
+											16,
+											12
+										]
+									},
+									"minecraft:entity_collision": {
+										"origin": [
+											-6,
+											0,
+											-6
+										],
+										"size": [
+											12,
+											16,
+											12
+										]
+									},
+									"minecraft:creative_category": {
+										"category": "construction",
+										"group": "itemGroup.name.ore"
+									}
+								},
+								"key": "minecraft:pick_collision",
+								"children": [
+									{
+										"open": {
+											"origin": [
+												-6,
+												0,
+												-6
+											],
+											"size": [
+												12,
+												16,
+												12
+											]
+										},
+										"key": "origin",
+										"is_minified": true,
+										"children": [
+											-6,
+											0,
+											-6
+										]
+									},
+									{
+										"open": {
+											"origin": [
+												-6,
+												0,
+												-6
+											],
+											"size": [
+												12,
+												16,
+												12
+											]
+										},
+										"key": "size",
+										"is_minified": true,
+										"children": [
+											12,
+											16,
+											12
+										]
+									}
+								]
+							},
+							{
+								"open": {
+									"minecraft:destroy_time": 2,
+									"minecraft:block_light_emission": 0,
+									"minecraft:block_light_absorption": 0,
+									"minecraft:map_color": "#969696",
+									"minecraft:explosion_resistance": 0.3,
+									"minecraft:geometry": "geometry.pillar_middle",
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "pillar_middle",
+											"render_method": "opaque",
+											"face_dimming": true,
+											"ambient_occlusion": true
+										}
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-6,
+											0,
+											-6
+										],
+										"size": [
+											12,
+											16,
+											12
+										]
+									},
+									"minecraft:entity_collision": {
+										"origin": [
+											-6,
+											0,
+											-6
+										],
+										"size": [
+											12,
+											16,
+											12
+										]
+									},
+									"minecraft:creative_category": {
+										"category": "construction",
+										"group": "itemGroup.name.ore"
+									}
+								},
+								"key": "minecraft:entity_collision",
+								"children": [
+									{
+										"open": {
+											"origin": [
+												-6,
+												0,
+												-6
+											],
+											"size": [
+												12,
+												16,
+												12
+											]
+										},
+										"key": "origin",
+										"is_minified": true,
+										"children": [
+											-6,
+											0,
+											-6
+										]
+									},
+									{
+										"open": {
+											"origin": [
+												-6,
+												0,
+												-6
+											],
+											"size": [
+												12,
+												16,
+												12
+											]
+										},
+										"key": "size",
+										"is_minified": true,
+										"children": [
+											12,
+											16,
+											12
+										]
+									}
+								]
+							},
+							{
+								"key": "minecraft:creative_category",
+								"is_minified": true,
+								"children": {
+									"category": "construction",
+									"group": "itemGroup.name.ore"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

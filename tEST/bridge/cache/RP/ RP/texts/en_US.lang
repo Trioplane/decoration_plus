@@ -1,0 +1,8 @@
+{
+	"file_path": "C:\\Users\\User\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\Test RP\\texts\\en_US.lang",
+	"file_type": "client_lang",
+	"format_version": 0,
+	"file_uuid": "c3832a71_1532_4424_9a81_2d37dd2d4c6f",
+	"file_version": 3,
+	"cache_content": "pack.name=Test RP\r\npack.description=test\r\ntile.test:pot.name=Pot\r\ntile.test:statue.name=Statue\r\ntile.test:pillar_bottom.name=Bottom Pillar\r\ntile.test:pillar_middle.name=Middle Pillar \r\ntile.test:pillar_top.name=Top Pillar"
+}

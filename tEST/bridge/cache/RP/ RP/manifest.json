@@ -1,0 +1,96 @@
+{
+	"file_path": "C:\\Users\\User\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\Test RP\\manifest.json",
+	"file_type": "manifest_rp",
+	"format_version": 1,
+	"file_uuid": "26299670_0f0e_47a2_9523_394cf19874b9",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "2",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": 2,
+					"header": {
+						"name": "test",
+						"description": "test",
+						"uuid": "0f4cc305-6787-4885-af50-c572fdc033ac",
+						"version": [
+							1,
+							0,
+							0
+						],
+						"min_engine_version": [
+							1,
+							13,
+							0
+						]
+					},
+					"modules": [
+						{
+							"type": "resources",
+							"uuid": "2fffcffa-7d0e-4c4c-942f-c1630cab087d",
+							"version": [
+								1,
+								0,
+								0
+							]
+						}
+					],
+					"metadata": {
+						"generated_with": {
+							"bridge": [
+								"1.8.3"
+							]
+						}
+					}
+				},
+				"key": "header",
+				"is_minified": true,
+				"children": {
+					"name": "test",
+					"description": "test",
+					"uuid": "0f4cc305-6787-4885-af50-c572fdc033ac",
+					"version": [
+						1,
+						0,
+						0
+					],
+					"min_engine_version": [
+						1,
+						13,
+						0
+					]
+				}
+			},
+			{
+				"key": "modules",
+				"is_minified": true,
+				"children": [
+					{
+						"type": "resources",
+						"uuid": "2fffcffa-7d0e-4c4c-942f-c1630cab087d",
+						"version": [
+							1,
+							0,
+							0
+						]
+					}
+				]
+			},
+			{
+				"key": "metadata",
+				"is_minified": true,
+				"children": {
+					"generated_with": {
+						"bridge": [
+							"1.8.3"
+						]
+					}
+				}
+			}
+		]
+	}
+}

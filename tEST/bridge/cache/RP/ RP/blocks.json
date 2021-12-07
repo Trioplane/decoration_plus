@@ -1,0 +1,222 @@
+{
+	"file_path": "C:\\Users\\User\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\Test RP\\blocks.json",
+	"file_type": "client_block",
+	"format_version": 1,
+	"file_uuid": "267b5457_4da9_41b6_9c12_50b52f957a0a",
+	"file_version": 4,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"test:pot": {
+						"sound": "glass",
+						"textures": "pot"
+					},
+					"test:statue": {
+						"sound": "stone",
+						"textures": "statue"
+					},
+					"test:pillar_bottom": {
+						"sound": "stone",
+						"textures": "pillar_bottom"
+					},
+					"test:pillar_middle": {
+						"sound": "stone",
+						"textures": "pillar_middle"
+					},
+					"test:pillar_top": {
+						"sound": "stone",
+						"textures": "pillar_top"
+					}
+				},
+				"key": "format_version",
+				"is_minified": true,
+				"children": [
+					1,
+					1,
+					0
+				]
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"test:pot": {
+						"sound": "glass",
+						"textures": "pot"
+					},
+					"test:statue": {
+						"sound": "stone",
+						"textures": "statue"
+					},
+					"test:pillar_bottom": {
+						"sound": "stone",
+						"textures": "pillar_bottom"
+					},
+					"test:pillar_middle": {
+						"sound": "stone",
+						"textures": "pillar_middle"
+					},
+					"test:pillar_top": {
+						"sound": "stone",
+						"textures": "pillar_top"
+					}
+				},
+				"key": "test:pot",
+				"is_minified": true,
+				"children": {
+					"sound": "glass",
+					"textures": "pot"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"test:pot": {
+						"sound": "glass",
+						"textures": "pot"
+					},
+					"test:statue": {
+						"sound": "stone",
+						"textures": "statue"
+					},
+					"test:pillar_bottom": {
+						"sound": "stone",
+						"textures": "pillar_bottom"
+					},
+					"test:pillar_middle": {
+						"sound": "stone",
+						"textures": "pillar_middle"
+					},
+					"test:pillar_top": {
+						"sound": "stone",
+						"textures": "pillar_top"
+					}
+				},
+				"key": "test:statue",
+				"is_minified": true,
+				"children": {
+					"sound": "stone",
+					"textures": "statue"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"test:pot": {
+						"sound": "glass",
+						"textures": "pot"
+					},
+					"test:statue": {
+						"sound": "stone",
+						"textures": "statue"
+					},
+					"test:pillar_bottom": {
+						"sound": "stone",
+						"textures": "pillar_bottom"
+					},
+					"test:pillar_middle": {
+						"sound": "stone",
+						"textures": "pillar_middle"
+					},
+					"test:pillar_top": {
+						"sound": "stone",
+						"textures": "pillar_top"
+					}
+				},
+				"key": "test:pillar_bottom",
+				"is_minified": true,
+				"children": {
+					"sound": "stone",
+					"textures": "pillar_bottom"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"test:pot": {
+						"sound": "glass",
+						"textures": "pot"
+					},
+					"test:statue": {
+						"sound": "stone",
+						"textures": "statue"
+					},
+					"test:pillar_bottom": {
+						"sound": "stone",
+						"textures": "pillar_bottom"
+					},
+					"test:pillar_middle": {
+						"sound": "stone",
+						"textures": "pillar_middle"
+					},
+					"test:pillar_top": {
+						"sound": "stone",
+						"textures": "pillar_top"
+					}
+				},
+				"key": "test:pillar_middle",
+				"is_minified": true,
+				"children": {
+					"sound": "stone",
+					"textures": "pillar_middle"
+				}
+			},
+			{
+				"open": {
+					"format_version": [
+						1,
+						1,
+						0
+					],
+					"test:pot": {
+						"sound": "glass",
+						"textures": "pot"
+					},
+					"test:statue": {
+						"sound": "stone",
+						"textures": "statue"
+					},
+					"test:pillar_bottom": {
+						"sound": "stone",
+						"textures": "pillar_bottom"
+					},
+					"test:pillar_middle": {
+						"sound": "stone",
+						"textures": "pillar_middle"
+					},
+					"test:pillar_top": {
+						"sound": "stone",
+						"textures": "pillar_top"
+					}
+				},
+				"key": "test:pillar_top",
+				"is_minified": true,
+				"children": {
+					"sound": "stone",
+					"textures": "pillar_top"
+				}
+			}
+		]
+	}
+}
